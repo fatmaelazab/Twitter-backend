@@ -9,11 +9,11 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone https://github.com/fatmaelazab/Twitter-like-app-backend.git
+    git clone https://github.com/fatmaelazab/Twitter-backend.git
 
 Switch to the repo folder
 
-    cd Twitter-like-app-backend
+    cd Twitter-backend
 
 Install all the dependencies using composer
 
